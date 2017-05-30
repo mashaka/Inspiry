@@ -1,0 +1,11 @@
+Trips amount: 1
+Geo processing time: 0.0
+Algo Processing time: 0.0
+Total Processing time: 0.0
+===================
+Trip 0
+	start: 2016-08-06 11:01:44
+	end: 2016-08-14 06:43:37
+	country: RU
+	Moscow	Nizhny Novgorod	Kazan
+	posts: 8

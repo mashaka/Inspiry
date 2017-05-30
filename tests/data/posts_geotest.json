@@ -1,0 +1,589 @@
+[
+{
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b54f"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "803222504076496896",
+        "url": "https://twitter.com/ADanilyak/status/803222504076496896",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "Helsinki 🇫🇮 @ Kaukoliikenteen Terminaali - Kamppi https://t.co/yJxEsoOgpq",
+    "location": {
+        "type": "Point",
+        "coordinates": [24.93424987, 60.1698687]
+    },
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [24.78281, 60.021032],
+                    [25.2544364, 60.021032],
+                    [25.2544364, 60.2979104],
+                    [24.78281, 60.2979104],
+                    [24.78281, 60.021032]
+                ]
+            ]
+        },
+        "country": {
+            "id": "FI",
+            "value": "Finland"
+        },
+        "city": {
+            "id": "Q1757",
+            "value": "Helsinki"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-11-28T13:02:22.000Z"
+    },
+    "hashtags": [],
+    "history": true,
+    "modified": {
+        "$date": "2016-12-03T12:42:11.023Z"
+    },
+    "tripId": {
+        "$oid": "5842bda2b727260001e2c52e"
+    }
+},{
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b550"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "802797671253770240",
+        "url": "https://twitter.com/ADanilyak/status/802797671253770240",
+        "likes": 1
+    },
+    "owner": "adanilyak",
+    "text": "Наш проект на #Junction2016 https://t.co/OM5rd2ysFa",
+    "visible": true,
+    "created": {
+        "$date": "2016-11-27T08:54:14.000Z"
+    },
+    "hashtags": ["Junction2016"],
+    "history": false,
+    "modified": {
+        "$date": "2016-12-03T12:42:11.030Z"
+    },
+    "tripId": {
+        "$oid": "5842bda2b727260001e2c52d"
+    }
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b551"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "802665119637508100",
+        "url": "https://twitter.com/ADanilyak/status/802665119637508100",
+        "likes": 5
+    },
+    "owner": "adanilyak",
+    "text": "#Junction2016 @free_Shkiper, бог имадж-аналисиса 😄 https://t.co/5nI87p2f2w",
+    "photo": [{
+        "width": 960,
+        "height": 1200,
+        "url": "http://pbs.twimg.com/media/CyOjqghWEAA6g-g.jpg:medium",
+        "type": "original"
+    }, {
+        "width": 150,
+        "height": 150,
+        "url": "http://pbs.twimg.com/media/CyOjqghWEAA6g-g.jpg:thumb",
+        "type": "thumb"
+    }, {
+        "width": 544,
+        "height": 680,
+        "url": "http://pbs.twimg.com/media/CyOjqghWEAA6g-g.jpg:small"
+    }, {
+        "width": 1638,
+        "height": 2048,
+        "url": "http://pbs.twimg.com/media/CyOjqghWEAA6g-g.jpg:large"
+    }],
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [19.1686845, 59.675274],
+                    [31.586712, 59.675274],
+                    [31.586712, 70.0922241],
+                    [19.1686845, 70.0922241],
+                    [19.1686845, 59.675274]
+                ]
+            ]
+        },
+        "country": {
+            "id": "FI",
+            "value": "Finland"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-11-27T00:07:31.000Z"
+    },
+    "hashtags": ["Junction2016"],
+    "history": false,
+    "modified": {
+        "$date": "2016-12-03T12:42:11.030Z"
+    },
+    "tripId": {
+        "$oid": "5842bda2b727260001e2c52d"
+    }
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b559"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "799688678545104896",
+        "url": "https://twitter.com/ADanilyak/status/799688678545104896",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "#architecture #moscow @ Оружейный Переулок https://t.co/TPNQpnjC8Y",
+    "location": {
+        "type": "Point",
+        "coordinates": [37.59860532, 55.77117876]
+    },
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [36.8878157, 55.4883244],
+                    [37.9674694, 55.4883244],
+                    [37.9674694, 56.0212511],
+                    [36.8878157, 56.0212511],
+                    [36.8878157, 55.4883244]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        },
+        "city": {
+            "id": "Q1023006",
+            "value": "Moscow"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-11-18T19:00:13.000Z"
+    },
+    "hashtags": ["architecture", "moscow"],
+    "history": false
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b55a"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "797532134449811456",
+        "url": "https://twitter.com/ADanilyak/status/797532134449811456",
+        "likes": 13
+    },
+    "owner": "adanilyak",
+    "text": "Когда забрал свою зайку @kravchusha из бара https://t.co/I5SDBoonEA",
+    "photo": [{
+        "width": 900,
+        "height": 1200,
+        "url": "http://pbs.twimg.com/media/CxFnPcfW8AAV8bD.jpg:medium",
+        "type": "original"
+    }, {
+        "width": 150,
+        "height": 150,
+        "url": "http://pbs.twimg.com/media/CxFnPcfW8AAV8bD.jpg:thumb",
+        "type": "thumb"
+    }, {
+        "width": 510,
+        "height": 680,
+        "url": "http://pbs.twimg.com/media/CxFnPcfW8AAV8bD.jpg:small"
+    }, {
+        "width": 1536,
+        "height": 2048,
+        "url": "http://pbs.twimg.com/media/CxFnPcfW8AAV8bD.jpg:large"
+    }],
+    "visible": true,
+    "created": {
+        "$date": "2016-11-12T20:10:52.000Z"
+    },
+    "hashtags": [],
+    "history": false
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b55b"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "795244761808596992",
+        "url": "https://twitter.com/ADanilyak/status/795244761808596992",
+        "likes": 2
+    },
+    "owner": "adanilyak",
+    "text": "Переходники наносят ответный удар https://t.co/O7VkoZdhQq",
+    "photo": [{
+        "width": 1200,
+        "height": 1200,
+        "url": "http://pbs.twimg.com/media/CwlG4iaWgAAAbVx.jpg:medium",
+        "type": "original"
+    }, {
+        "width": 150,
+        "height": 150,
+        "url": "http://pbs.twimg.com/media/CwlG4iaWgAAAbVx.jpg:thumb",
+        "type": "thumb"
+    }, {
+        "width": 680,
+        "height": 680,
+        "url": "http://pbs.twimg.com/media/CwlG4iaWgAAAbVx.jpg:small"
+    }, {
+        "width": 2048,
+        "height": 2048,
+        "url": "http://pbs.twimg.com/media/CwlG4iaWgAAAbVx.jpg:large"
+    }],
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [37.1316733, 55.4908342],
+                    [37.9650116, 55.4908342],
+                    [37.9650116, 56.0209192],
+                    [37.1316733, 56.0209192],
+                    [37.1316733, 55.4908342]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-11-06T12:41:40.000Z"
+    },
+    "hashtags": [],
+    "history": false
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b575"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "711975086828429313",
+        "url": "https://twitter.com/ADanilyak/status/711975086828429313",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "Но 256GB это круто 👍🏻",
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [37.4498975, 55.9076906],
+                    [37.5347086, 55.9076906],
+                    [37.5347086, 55.9969578],
+                    [37.4498975, 55.9969578],
+                    [37.4498975, 55.9076906]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        },
+        "city": {
+            "id": "Q135394",
+            "value": "Долгопрудный"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-03-21T17:57:43.000Z"
+    },
+    "hashtags": [],
+    "history": false
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b576"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "711974956381380608",
+        "url": "https://twitter.com/ADanilyak/status/711974956381380608",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "Розовый #iPadPro просто жесть... 😳",
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [37.4498975, 55.9076906],
+                    [37.5347086, 55.9076906],
+                    [37.5347086, 55.9969578],
+                    [37.4498975, 55.9969578],
+                    [37.4498975, 55.9076906]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        },
+        "city": {
+            "id": "Q135394",
+            "value": "Долгопрудный"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-03-21T17:57:12.000Z"
+    },
+    "hashtags": ["iPadPro"],
+    "history": false
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b577"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "711969279063810049",
+        "url": "https://twitter.com/ADanilyak/status/711969279063810049",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "#iPhoneSE ... 5S, ты ли это? 😱",
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [37.4498975, 55.9076906],
+                    [37.5347086, 55.9076906],
+                    [37.5347086, 55.9969578],
+                    [37.4498975, 55.9969578],
+                    [37.4498975, 55.9076906]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        },
+        "city": {
+            "id": "Q135394",
+            "value": "Долгопрудный"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-03-21T17:34:38.000Z"
+    },
+    "hashtags": ["iPhoneSE"],
+    "history": false
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b57f"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "695265925143003136",
+        "url": "https://twitter.com/ADanilyak/status/695265925143003136",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "🏂 by kravchenkonata 💙 @ Газпром, Красная Поляна, Сочи https://t.co/kMeRHOOfgP",
+    "location": {
+        "type": "Point",
+        "coordinates": [40.31436217, 43.69413028]
+    },
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [39.859334, 43.38482],
+                    [40.6611975, 43.38482],
+                    [40.6611975, 43.874126],
+                    [39.859334, 43.874126],
+                    [39.859334, 43.38482]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        },
+        "city": {
+            "id": "",
+            "value": "Адлер"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-02-04T15:21:28.000Z"
+    },
+    "hashtags": [],
+    "history": false,
+    "modified": {
+        "$date": "2016-12-03T12:42:11.005Z"
+    },
+    "tripId": {
+        "$oid": "5842bda2b727260001e2c52b"
+    }
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b580"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "695193965327314944",
+        "url": "https://twitter.com/ADanilyak/status/695193965327314944",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "Катаем с kravchenkonata 🏂😄 @ Газпром, Красная Поляна, Сочи https://t.co/fckgBvAPzK",
+    "location": {
+        "type": "Point",
+        "coordinates": [40.31436217, 43.69413028]
+    },
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [39.859334, 43.38482],
+                    [40.6611975, 43.38482],
+                    [40.6611975, 43.874126],
+                    [39.859334, 43.874126],
+                    [39.859334, 43.38482]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        },
+        "city": {
+            "id": "",
+            "value": "Адлер"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-02-04T10:35:32.000Z"
+    },
+    "hashtags": [],
+    "history": false,
+    "modified": {
+        "$date": "2016-12-03T12:42:11.005Z"
+    },
+    "tripId": {
+        "$oid": "5842bda2b727260001e2c52b"
+    }
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b581"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "694124574980440064",
+        "url": "https://twitter.com/ADanilyak/status/694124574980440064",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "🏂🏂🏂 @ Роза хутор https://t.co/vCUOOKAT4s",
+    "location": {
+        "type": "Point",
+        "coordinates": [40.31976155, 43.65804278]
+    },
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [39.859334, 43.38482],
+                    [40.6611975, 43.38482],
+                    [40.6611975, 43.874126],
+                    [39.859334, 43.874126],
+                    [39.859334, 43.38482]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        },
+        "city": {
+            "id": "",
+            "value": "Адлер"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-02-01T11:46:09.000Z"
+    },
+    "hashtags": [],
+    "history": false,
+    "modified": {
+        "$date": "2016-12-03T12:42:11.005Z"
+    },
+    "tripId": {
+        "$oid": "5842bda2b727260001e2c52b"
+    }
+}, {
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b572"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "713879770497294336",
+        "url": "https://twitter.com/ADanilyak/status/713879770497294336",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "#дрфивт2016 🔥 @ Red Square, Moscow (Красная площадь, Москва) https://t.co/hWBnuIS5UN",
+    "location": {
+        "type": "Point",
+        "coordinates": [37.6214299, 55.7547]
+    },
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [36.8878157, 55.4883244],
+                    [37.9674694, 55.4883244],
+                    [37.9674694, 56.0212511],
+                    [36.8878157, 56.0212511],
+                    [36.8878157, 55.4883244]
+                ]
+            ]
+        },
+        "country": {
+            "id": "RU",
+            "value": "Russia"
+        },
+        "city": {
+            "id": "Q1023006",
+            "value": "Moscow"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-03-27T00:06:15.000Z"
+    },
+    "hashtags": ["дрфивт2016"],
+    "history": false
+}
+
+]

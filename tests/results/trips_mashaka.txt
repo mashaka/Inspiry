@@ -1,0 +1,29 @@
+Trips amount: 4
+Geo processing time: 0.0
+Algo Processing time: 0.0
+Total Processing time: 0.0
+===================
+Trip 0
+	start: 2015-07-24 11:05:34
+	end: 2015-07-24 11:05:34
+	country: TR
+	Kayseri
+	posts: 1
+Trip 1
+	start: 2015-08-22 13:57:41
+	end: 2015-08-24 13:03:11
+	country: RU
+	Saint Petersburg
+	posts: 3
+Trip 2
+	start: 2016-05-02 11:33:39
+	end: 2016-05-04 22:38:36
+	country: FR
+	Paris
+	posts: 6
+Trip 3
+	start: 2016-11-25 15:21:33
+	end: 2016-12-04 23:59:11
+	country: FI
+	Helsinki
+	posts: 6

@@ -1,0 +1,36 @@
+{
+    "_id": ObjectId("5842bda2b727260001e2c51e"),
+    "name": "GR, 2014",
+    "visible": true,
+    "hashtags": ["лафффки", "ахиллес"],
+    "owners": ["adanilyak"],
+    "modified": "2016-12-03T12:42:09.099Z",
+    "comments": [],
+    "cities": [{
+        "id": "Q205832",
+        "location": {
+            "coordinates": [39.616666666, 19.916666665999998],
+            "type": "Point"
+        },
+        "countryId": "GR"
+    }],
+    "avatar": [{
+        "height": 320,
+        "width": 320,
+        "url": "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e15/10608070_687254538019407_1693491081_n.jpg?ig_cache_key=NzgzOTIwNjY0OTcwMTgwNTI5.2"
+    }, {
+        "height": 150,
+        "width": 150,
+        "url": "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e15/10608070_687254538019407_1693491081_n.jpg?ig_cache_key=NzgzOTIwNjY0OTcwMTgwNTI5.2",
+        "type": "thumb"
+    }, {
+        "height": 640,
+        "width": 640,
+        "url": "https://scontent.cdninstagram.com/t51.2885-15/e15/10608070_687254538019407_1693491081_n.jpg?ig_cache_key=NzgzOTIwNjY0OTcwMTgwNTI5.2",
+        "type": "original"
+    }],
+    "start": "2014-08-10T00:00:00.000Z",
+    "end": "2014-08-11T00:00:00.000Z",
+    "countries": ["GR"],
+    "validated": false
+}

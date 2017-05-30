@@ -1,0 +1,51 @@
+{
+    "_id": {
+        "$oid": "584095f91f57bf5ca7f8b54f"
+    },
+    "source": {
+        "name": "twitter",
+        "id": "803222504076496896",
+        "url": "https://twitter.com/ADanilyak/status/803222504076496896",
+        "likes": 0
+    },
+    "owner": "adanilyak",
+    "text": "Helsinki 🇫🇮 @ Kaukoliikenteen Terminaali - Kamppi https://t.co/yJxEsoOgpq",
+    "location": {
+        "type": "Point",
+        "coordinates": [24.93424987, 60.1698687]
+    },
+    "place": {
+        "location": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [24.78281, 60.021032],
+                    [25.2544364, 60.021032],
+                    [25.2544364, 60.2979104],
+                    [24.78281, 60.2979104],
+                    [24.78281, 60.021032]
+                ]
+            ]
+        },
+        "country": {
+            "id": "FI",
+            "value": "Finland"
+        },
+        "city": {
+            "id": "Q1757",
+            "value": "Helsinki"
+        }
+    },
+    "visible": true,
+    "created": {
+        "$date": "2016-11-28T13:02:22.000Z"
+    },
+    "hashtags": [],
+    "history": true,
+    "modified": {
+        "$date": "2016-12-03T12:42:11.023Z"
+    },
+    "tripId": {
+        "$oid": "5842bda2b727260001e2c52e"
+    }
+}
