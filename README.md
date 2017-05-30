@@ -1,6 +1,6 @@
 # Inspiry
 
-![alt text](http://s019.radikal.ru/i642/1705/87/4ccfb4f581d1.jpg)
+![alt text](http://s019.radikal.ru/i616/1705/56/9f8dccf9f3ac.png)
 
 ## Overview
 **Inspiry** is an iOS app that keeps all your memories in one place automatically aggregating travels from your Instagram.
