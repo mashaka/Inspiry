@@ -64,14 +64,3 @@ class Trip:
     def get_posts_ids(self) -> List[str]:
         post_ids = [post.id for post in self.posts]
         return post_ids
-
-
-        
-
-        
-    
-
-        
-        
-        
-        
