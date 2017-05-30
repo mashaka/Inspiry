@@ -26,7 +26,7 @@ Major algorithm keypoints:
 
 ## Teammates
 The whole project was implemented by:
-- iOS app: [adanilyak](https://github.com/adanilyak)iOS app
+- iOS app: [adanilyak](https://github.com/adanilyak)
 - Algoritm: [mashaka](https://github.com/mashaka)
 - Website: [AlexeyZhuravlev](https://github.com/AlexeyZhuravlev)
 - Backend: [seka17](https://github.com/seka17)
