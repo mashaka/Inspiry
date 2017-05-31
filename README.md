@@ -22,7 +22,7 @@ Major algorithm keypoints:
 * Excludes local cities and hypotheses without location
 * Excludes very long "trips hypotheses" (rare persons travel longer than 90 days)
 * Unites small city trips in a one big country trip
-* Wrap results in Trip objects
+* Wraps results in Trip objects
 
 ## Teammates
 The whole project was implemented by:
