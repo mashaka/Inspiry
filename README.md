@@ -7,7 +7,7 @@
 
 In this repository you can find an algorithm for this application.
 
-The iOS app implemented by [adanilyak](https://github.com/adanilyak) you can find [here](https://github.com/adanilyak).
+The iOS app implemented by [adanilyak](https://github.com/adanilyak) you can find [here](https://bitbucket.org/project_travel/ios_project_travel).
 
 ## Algorithm
 You can see an example of an algorithm's execution and uderstand the data format with a help of [tests](https://github.com/mashaka/Inspiry/tree/master/tests).
