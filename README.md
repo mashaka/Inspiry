@@ -27,7 +27,7 @@ Major algorithm keypoints:
 ## Teammates
 The whole project was implemented by:
 - iOS app: [adanilyak](https://github.com/adanilyak)
-- Algoritm: [mashaka](https://github.com/mashaka)
+- Algorithm: [mashaka](https://github.com/mashaka)
 - Website: [AlexeyZhuravlev](https://github.com/AlexeyZhuravlev)
 - Backend: [seka17](https://github.com/seka17)
 - [osm_rg_wikidata library](https://github.com/Scitator/osm_rg/tree/wikidata): [Scitator](https://github.com/Scitator)
