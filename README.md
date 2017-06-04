@@ -3,7 +3,7 @@
 ![alt text](http://s019.radikal.ru/i616/1705/56/9f8dccf9f3ac.png)
 
 ## Overview
-**Inspiry** is an iOS app that keeps all your memories in one place automatically aggregating travels from your Instagram and Twitter.
+**Inspiry** is an iOS app that keeps all your memories in one place automatically collecting travels from your Instagram and Twitter.
 
 In this repository you can find an algorithm for this application.
 
